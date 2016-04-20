@@ -15,6 +15,8 @@ public class NewClass {
     public static void main(String[] args) {
         System.out.println("Dupa");
         int d = 50;
+        String chuj;
+        
     }
     
 }
